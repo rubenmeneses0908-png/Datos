@@ -79,9 +79,14 @@
    "06:00 p.m.",
    "6",
    "Rana"
+  ],
+  [
+   "07:00 p.m.",
+   "35",
+   "Jirafa"
   ]
  ],
- "hasta": "6:00 PM",
+ "hasta": "7:00 PM",
  "hits": [
   [
    "Jueves 22 de octubre de 2026",
@@ -175,6 +180,11 @@
    "06:00 p.m.",
    "30",
    "Caimán"
+  ],
+  [
+   "07:00 p.m.",
+   "4",
+   "Alacrán"
   ]
  ],
  "source": "Datos al instante de LotoResultados"
