@@ -15,7 +15,7 @@
    "Lotto Activo",
    "36",
    "Culebra",
-   "⏳ En juego"
+   "✅ ¡Acertó! Salió en el sorteo de las 2:00 PM"
   ],
   [
    "La Granjita",
@@ -130,6 +130,11 @@
    "01:00 p.m.",
    "20",
    "Cochino"
+  ],
+  [
+   "02:00 p.m.",
+   "36",
+   "Culebra"
   ]
  ],
  "source": "Datos al instante de LotoResultados"
