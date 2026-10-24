@@ -21,7 +21,7 @@
    "La Granjita",
    "23",
    "Cebra",
-   "⏳ En juego"
+   "❌ No acertó hoy"
   ]
  ],
  "granjita": [
@@ -88,6 +88,15 @@
  ],
  "hasta": "7:00 PM",
  "hits": [
+  [
+   "Viernes 23 de octubre de 2026",
+   1,
+   2,
+   3,
+   10,
+   4,
+   10
+  ],
   [
    "Jueves 22 de octubre de 2026",
    0,
