@@ -1,1 +1,191 @@
-{"arcana":["La Estrella · Carta XVII","La Estrella de hoy vuelve a encender tu esperanza: después de la noche, la luz regresa con calma y claridad. Confía en tu camino, mantén el corazón abierto y deja que esa estrella guíe tus pasos con alegría y buena energía.","11","Gato","23","Cebra","Bajo tu estrella, hoy brilla lo bueno: cree, sonríe y deja que la suerte te encuentre.","⭐"],"fecha":"domingo 1 de noviembre de 2026","free":[["Lotto Activo","32","Ardilla","⏳ En juego"],["La Granjita","13","Mono","⏳ En juego"]],"granjita":[["08:00 a.m.","12","Caballo"],["09:00 a.m.","17","Pavo"],["10:00 a.m.","22","Camello"],["11:00 a.m.","2","Toro"],["12:00 p.m.","35","Jirafa"],["01:00 p.m.","33","Pescado"],["02:00 p.m.","23","Cebra"],["03:00 p.m.","29","Elefante"],["04:00 p.m.","20","Cochino"],["05:00 p.m.","6","Rana"],["06:00 p.m.","15","Zorro"],["07:00 p.m.","12","Caballo"]],"hasta":"7:00 PM","hits":[["Sábado 31 de octubre de 2026",1,2,3,10,4,10],["Viernes 30 de octubre de 2026",0,2,2,10,4,10],["Jueves 29 de octubre de 2026",1,2,2,10,4,10],["Miércoles 28 de octubre de 2026",1,2,1,10,5,10]],"lotto":[["08:00 a.m.","8","Ratón"],["09:00 a.m.","30","Caimán"],["10:00 a.m.","34","Venado"],["11:00 a.m.","20","Cochino"],["12:00 p.m.","17","Pavo"],["01:00 p.m.","15","Zorro"],["02:00 p.m.","33","Pescado"],["03:00 p.m.","35","Jirafa"],["04:00 p.m.","4","Alacrán"],["05:00 p.m.","18","Burro"],["06:00 p.m.","15","Zorro"],["07:00 p.m.","9","Águila"]],"source":"Datos al instante de LotoResultados"}
+{
+  "arcana": [
+    "La Estrella · Carta XVII",
+    "La Estrella de hoy vuelve a encender tu esperanza: después de la noche, la luz regresa con calma y claridad. Confía en tu camino, mantén el corazón abierto y deja que esa estrella guíe tus pasos con alegría y buena energía.",
+    "11",
+    "Gato",
+    "23",
+    "Cebra",
+    "Bajo tu estrella, hoy brilla lo bueno: cree, sonríe y deja que la suerte te encuentre.",
+    "⭐"
+  ],
+  "fecha": "domingo 1 de noviembre de 2026",
+  "free": [
+    [
+      "Lotto Activo",
+      "32",
+      "Ardilla",
+      "❌ No acertó hoy"
+    ],
+    [
+      "La Granjita",
+      "13",
+      "Mono",
+      "❌ No acertó hoy"
+    ]
+  ],
+  "granjita": [
+    [
+      "08:00 a.m.",
+      "12",
+      "Caballo"
+    ],
+    [
+      "09:00 a.m.",
+      "17",
+      "Pavo"
+    ],
+    [
+      "10:00 a.m.",
+      "22",
+      "Camello"
+    ],
+    [
+      "11:00 a.m.",
+      "2",
+      "Toro"
+    ],
+    [
+      "12:00 p.m.",
+      "35",
+      "Jirafa"
+    ],
+    [
+      "01:00 p.m.",
+      "33",
+      "Pescado"
+    ],
+    [
+      "02:00 p.m.",
+      "23",
+      "Cebra"
+    ],
+    [
+      "03:00 p.m.",
+      "29",
+      "Elefante"
+    ],
+    [
+      "04:00 p.m.",
+      "20",
+      "Cochino"
+    ],
+    [
+      "05:00 p.m.",
+      "6",
+      "Rana"
+    ],
+    [
+      "06:00 p.m.",
+      "15",
+      "Zorro"
+    ],
+    [
+      "07:00 p.m.",
+      "12",
+      "Caballo"
+    ]
+  ],
+  "hasta": "7:00 PM",
+  "hits": [
+    [
+      "Domingo 1 de noviembre de 2026",
+      0,
+      2,
+      3,
+      10,
+      5,
+      10
+    ],
+    [
+      "Sábado 31 de octubre de 2026",
+      1,
+      2,
+      3,
+      10,
+      4,
+      10
+    ],
+    [
+      "Viernes 30 de octubre de 2026",
+      0,
+      2,
+      2,
+      10,
+      4,
+      10
+    ],
+    [
+      "Jueves 29 de octubre de 2026",
+      1,
+      2,
+      2,
+      10,
+      4,
+      10
+    ]
+  ],
+  "lotto": [
+    [
+      "08:00 a.m.",
+      "8",
+      "Ratón"
+    ],
+    [
+      "09:00 a.m.",
+      "30",
+      "Caimán"
+    ],
+    [
+      "10:00 a.m.",
+      "34",
+      "Venado"
+    ],
+    [
+      "11:00 a.m.",
+      "20",
+      "Cochino"
+    ],
+    [
+      "12:00 p.m.",
+      "17",
+      "Pavo"
+    ],
+    [
+      "01:00 p.m.",
+      "15",
+      "Zorro"
+    ],
+    [
+      "02:00 p.m.",
+      "33",
+      "Pescado"
+    ],
+    [
+      "03:00 p.m.",
+      "35",
+      "Jirafa"
+    ],
+    [
+      "04:00 p.m.",
+      "4",
+      "Alacrán"
+    ],
+    [
+      "05:00 p.m.",
+      "18",
+      "Burro"
+    ],
+    [
+      "06:00 p.m.",
+      "15",
+      "Zorro"
+    ],
+    [
+      "07:00 p.m.",
+      "9",
+      "Águila"
+    ]
+  ],
+  "source": "Datos al instante de LotoResultados"
+}
