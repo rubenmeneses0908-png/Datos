@@ -1,1 +1,191 @@
-{"arcana": ["La Fuerza · Carta XI", "La Fuerza de hoy te recuerda que la calma también es poder: lo difícil se vuelve manso cuando lo miras sin miedo. Respira hondo, avanza con el corazón firme y deja que tu serenidad abra el camino de lo bueno.", "1", "Carnero", "10", "Tigre", "Hoy tu fuerza serena convierte lo difícil en buena suerte", "🦁"], "fecha": "viernes 6 de noviembre de 2026", "free": [["Lotto Activo", "03", "Ciempiés", "❌ No acertó hoy"], ["La Granjita", "14", "Paloma", "❌ No acertó hoy"]], "granjita": [["08:00 a.m.", "1", "Carnero"], ["09:00 a.m.", "9", "Águila"], ["10:00 a.m.", "33", "Pescado"], ["11:00 a.m.", "00", "Ballena"], ["12:00 p.m.", "7", "Perico"], ["01:00 p.m.", "2", "Toro"], ["02:00 p.m.", "35", "Jirafa"], ["03:00 p.m.", "3", "Ciempiés"], ["04:00 p.m.", "11", "Gato"], ["05:00 p.m.", "36", "Culebra"], ["06:00 p.m.", "24", "Iguana"], ["07:00 p.m.", "31", "Lapa"]], "hasta": "7:00 PM", "hits": [["Viernes 6 de noviembre de 2026", 0, 2, 2, 10, 3, 10], ["Jueves 5 de noviembre de 2026", 1, 2, 3, 10, 7, 10], ["Miércoles 4 de noviembre de 2026", 0, 2, 2, 10, 3, 10], ["Martes 3 de noviembre de 2026", 1, 2, 5, 10, 6, 10]], "lotto": [["08:00 a.m.", "9", "Águila"], ["09:00 a.m.", "30", "Caimán"], ["10:00 a.m.", "27", "Perro"], ["11:00 a.m.", "2", "Toro"], ["12:00 p.m.", "29", "Elefante"], ["01:00 p.m.", "18", "Burro"], ["02:00 p.m.", "12", "Caballo"], ["03:00 p.m.", "4", "Alacrán"], ["04:00 p.m.", "1", "Carnero"], ["05:00 p.m.", "33", "Pescado"], ["06:00 p.m.", "0", "Delfín"], ["07:00 p.m.", "35", "Jirafa"]], "source": "Datos al instante de LotoResultados"}
+{
+ "arcana": [
+  "El Mundo · Carta XXI",
+  "El Mundo de hoy celebra que el círculo se cierra bien: lo que empezaste con dudas hoy se siente completo. Mira todo lo que lograste esta semana, agradece el camino y abre la puerta al próximo capítulo con confianza.",
+  "8",
+  "Ratón",
+  "18",
+  "Burro",
+  "Cuando el mundo se completa, la suerte encuentra su lugar en tu día",
+  "🌍"
+ ],
+ "fecha": "viernes 6 de noviembre de 2026",
+ "free": [
+  [
+   "Lotto Activo",
+   "03",
+   "Ciempiés",
+   "❌ No acertó hoy"
+  ],
+  [
+   "La Granjita",
+   "14",
+   "Paloma",
+   "❌ No acertó hoy"
+  ]
+ ],
+ "granjita": [
+  [
+   "08:00 a.m.",
+   "1",
+   "Carnero"
+  ],
+  [
+   "09:00 a.m.",
+   "9",
+   "Águila"
+  ],
+  [
+   "10:00 a.m.",
+   "33",
+   "Pescado"
+  ],
+  [
+   "11:00 a.m.",
+   "00",
+   "Ballena"
+  ],
+  [
+   "12:00 p.m.",
+   "7",
+   "Perico"
+  ],
+  [
+   "01:00 p.m.",
+   "2",
+   "Toro"
+  ],
+  [
+   "02:00 p.m.",
+   "35",
+   "Jirafa"
+  ],
+  [
+   "03:00 p.m.",
+   "3",
+   "Ciempiés"
+  ],
+  [
+   "04:00 p.m.",
+   "11",
+   "Gato"
+  ],
+  [
+   "05:00 p.m.",
+   "36",
+   "Culebra"
+  ],
+  [
+   "06:00 p.m.",
+   "24",
+   "Iguana"
+  ],
+  [
+   "07:00 p.m.",
+   "31",
+   "Lapa"
+  ]
+ ],
+ "hasta": "7:00 PM",
+ "hits": [
+  [
+   "Viernes 6 de noviembre de 2026",
+   0,
+   2,
+   2,
+   10,
+   3,
+   10
+  ],
+  [
+   "Jueves 5 de noviembre de 2026",
+   1,
+   2,
+   3,
+   10,
+   7,
+   10
+  ],
+  [
+   "Miércoles 4 de noviembre de 2026",
+   0,
+   2,
+   2,
+   10,
+   3,
+   10
+  ],
+  [
+   "Martes 3 de noviembre de 2026",
+   1,
+   2,
+   5,
+   10,
+   6,
+   10
+  ]
+ ],
+ "lotto": [
+  [
+   "08:00 a.m.",
+   "9",
+   "Águila"
+  ],
+  [
+   "09:00 a.m.",
+   "30",
+   "Caimán"
+  ],
+  [
+   "10:00 a.m.",
+   "27",
+   "Perro"
+  ],
+  [
+   "11:00 a.m.",
+   "2",
+   "Toro"
+  ],
+  [
+   "12:00 p.m.",
+   "29",
+   "Elefante"
+  ],
+  [
+   "01:00 p.m.",
+   "18",
+   "Burro"
+  ],
+  [
+   "02:00 p.m.",
+   "12",
+   "Caballo"
+  ],
+  [
+   "03:00 p.m.",
+   "4",
+   "Alacrán"
+  ],
+  [
+   "04:00 p.m.",
+   "1",
+   "Carnero"
+  ],
+  [
+   "05:00 p.m.",
+   "33",
+   "Pescado"
+  ],
+  [
+   "06:00 p.m.",
+   "0",
+   "Delfín"
+  ],
+  [
+   "07:00 p.m.",
+   "35",
+   "Jirafa"
+  ]
+ ],
+ "source": "Datos al instante de LotoResultados"
+}
