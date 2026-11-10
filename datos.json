@@ -54,9 +54,14 @@
       "01:00 p.m.",
       "22",
       "Camello"
+    ],
+    [
+      "02:00 p.m.",
+      "6",
+      "Rana"
     ]
   ],
-  "hasta": "1:00 PM",
+  "hasta": "2:00 PM",
   "hits": [
     [
       "Lunes 9 de noviembre de 2026",
@@ -125,6 +130,11 @@
       "01:00 p.m.",
       "22",
       "Camello"
+    ],
+    [
+      "02:00 p.m.",
+      "36",
+      "Culebra"
     ]
   ],
   "source": "Datos al instante de LotoResultados"
