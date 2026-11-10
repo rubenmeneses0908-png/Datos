@@ -49,9 +49,14 @@
       "12:00 p.m.",
       "22",
       "Camello"
+    ],
+    [
+      "01:00 p.m.",
+      "22",
+      "Camello"
     ]
   ],
-  "hasta": "12:00 PM",
+  "hasta": "1:00 PM",
   "hits": [
     [
       "Lunes 9 de noviembre de 2026",
