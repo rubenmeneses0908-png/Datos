@@ -120,6 +120,11 @@
       "12:00 p.m.",
       "10",
       "Tigre"
+    ],
+    [
+      "01:00 p.m.",
+      "22",
+      "Camello"
     ]
   ],
   "source": "Datos al instante de LotoResultados"
