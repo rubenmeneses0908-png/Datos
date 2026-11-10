@@ -64,9 +64,14 @@
       "03:00 p.m.",
       "30",
       "Caimán"
+    ],
+    [
+      "04:00 p.m.",
+      "35",
+      "Jirafa"
     ]
   ],
-  "hasta": "3:00 PM",
+  "hasta": "4:00 PM",
   "hits": [
     [
       "Lunes 9 de noviembre de 2026",
