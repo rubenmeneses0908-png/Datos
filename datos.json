@@ -39,9 +39,14 @@
       "10:00 a.m.",
       "15",
       "Zorro"
+    ],
+    [
+      "11:00 a.m.",
+      "28",
+      "Zamuro"
     ]
   ],
-  "hasta": "10:00 AM",
+  "hasta": "11:00 AM",
   "hits": [
     [
       "Lunes 9 de noviembre de 2026",
@@ -95,6 +100,11 @@
       "10:00 a.m.",
       "18",
       "Burro"
+    ],
+    [
+      "11:00 a.m.",
+      "2",
+      "Toro"
     ]
   ],
   "source": "Datos al instante de LotoResultados"
