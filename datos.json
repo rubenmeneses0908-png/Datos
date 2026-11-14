@@ -21,7 +21,7 @@
    "La Granjita",
    "12",
    "Caballo",
-   "⏳ En juego"
+   "✅ ¡Acertó! Salió en el sorteo de las 6:00 PM"
   ]
  ],
  "granjita": [
@@ -74,9 +74,19 @@
    "05:00 p.m.",
    "13",
    "Mono"
+  ],
+  [
+   "06:00 p.m.",
+   "12",
+   "Caballo"
+  ],
+  [
+   "07:00 p.m.",
+   "16",
+   "Oso"
   ]
  ],
- "hasta": "5:00 PM",
+ "hasta": "7:00 PM",
  "hits": [
   [
    "Jueves 12 de noviembre de 2026",
@@ -165,6 +175,16 @@
    "05:00 p.m.",
    "04",
    "Alacrán"
+  ],
+  [
+   "06:00 p.m.",
+   "16",
+   "Oso"
+  ],
+  [
+   "07:00 p.m.",
+   "35",
+   "Jirafa"
   ]
  ],
  "source": "Datos al instante de LotoResultados"
