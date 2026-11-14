@@ -15,7 +15,7 @@
    "Lotto Activo",
    "3",
    "Ciempiés",
-   "⏳ En juego"
+   "❌ No acertó hoy"
   ],
   [
    "La Granjita",
@@ -89,6 +89,15 @@
  "hasta": "7:00 PM",
  "hits": [
   [
+   "Viernes 13 de noviembre de 2026",
+   1,
+   2,
+   3,
+   10,
+   6,
+   10
+  ],
+  [
    "Jueves 12 de noviembre de 2026",
    1,
    2,
@@ -113,15 +122,6 @@
    1,
    10,
    7,
-   10
-  ],
-  [
-   "Lunes 9 de noviembre de 2026",
-   0,
-   2,
-   1,
-   10,
-   3,
    10
   ]
  ],
